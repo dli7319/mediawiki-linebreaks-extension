@@ -3,7 +3,7 @@
 This is a MediaWiki extension which converts `\s\s\n` to `<br />\n` during the parsing stage.
 
 # Installation
-* Clone to your extension repo.
+* Clone this repo to your extension folder.
 ```
 git clone https://github.com/dli7319/mediawiki-linebreaks-extension.git LineBreaks
 ```
