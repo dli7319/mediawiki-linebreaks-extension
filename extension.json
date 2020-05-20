@@ -2,7 +2,7 @@
   "name": "LineBreaks",
   "author": "David Li",
   "url": "https://github.com/dli7319/mediawiki-linebreaks-extension",
-  "description": "Converts double space line breaks to `<br />`",
+  "description": "Converts double space line breaks to <code>&lt;br /&gt;</code>",
   "version": "1.0",
   "license-name": "MIT",
   "type": "parserhook",
