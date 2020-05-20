@@ -5,7 +5,7 @@
   "description": "Converts double space line breaks to `<br />`",
   "version": "1.0",
   "license-name": "MIT",
-  "type": "validextensionclass",
+  "type": "parserhook",
   "manifest_version": 1,
   "AutoloadClasses": {
     "LineBreaks": "LineBreaks.php"
