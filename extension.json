@@ -10,6 +10,9 @@
   "AutoloadClasses": {
     "LineBreaks": "LineBreaks.php"
   },
+  "config": {
+	  "LbUseBackslash": false
+  },
   "Hooks": {
     "ParserBeforeStrip": "LineBreaks::onParserBeforeStrip"
   }
