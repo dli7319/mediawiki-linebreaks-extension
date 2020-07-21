@@ -15,4 +15,4 @@ git clone https://github.com/dli7319/mediawiki-linebreaks-extension.git LineBrea
 ## Options
 | Setting              | Default value                 | Description                                   |
 | -------------------- | ----------------------------- | --------------------------------------------- |
-| `$wgLbUseBackslashs` | `false`                       | Allow `\\\n` linebreaks. Note this may conflict code blocks.|
+| `$wgLbUseBackslash`  | `false`                       | Allow `\\\n` linebreaks. Note this may conflict code blocks.|
