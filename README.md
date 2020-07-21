@@ -1,6 +1,8 @@
 # LineBreaks
 
-This is a MediaWiki extension which converts `\s\s\n` to `<br />\n` during the parsing stage.
+This is a MediaWiki extension which allows you to use Markdown line breaks.
+
+Specifically it converts `\s\s\n` and `\\\n` to `<br />\n` during the parsing stage.
 
 # Installation
 * Clone this repo to your extension folder.
