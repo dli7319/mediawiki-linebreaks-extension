@@ -8,7 +8,7 @@ Specifically it converts `\s\s\n` and `\\\n` to `<br />\n` during the parsing st
 
 * Clone this repo to your extension folder.
 ```
-git clone https://github.com/dli7319/mediawiki-linebreaks-extension.git LineBreaks
+git clone --depth 1 https://github.com/dli7319/mediawiki-linebreaks-extension.git /var/www/html/extensions/LineBreaks
 ```
 * Add `wfLoadExtension( 'LineBreaks' );` to your `LocalSettings.php`.
 
